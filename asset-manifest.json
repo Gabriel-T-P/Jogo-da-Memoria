@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jogo-da-Memoria/static/css/main.e02ebf56.css",
+    "main.js": "/Jogo-da-Memoria/static/js/main.bc8bb699.js",
+    "index.html": "/Jogo-da-Memoria/index.html",
+    "main.e02ebf56.css.map": "/Jogo-da-Memoria/static/css/main.e02ebf56.css.map",
+    "main.bc8bb699.js.map": "/Jogo-da-Memoria/static/js/main.bc8bb699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02ebf56.css",
+    "static/js/main.bc8bb699.js"
+  ]
+}
